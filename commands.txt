@@ -1,0 +1,8 @@
+Virtual Environment:
+
+python -m venv eye
+.\eye\Scripts\activate
+rmdir /s /q tf_venv
+
+
+python webstreaming.py
