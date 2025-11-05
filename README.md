@@ -67,9 +67,6 @@ The eye aspect ratio is approximately constant while the eye is open, but will r
 In this project, I have used existing Deep Learning models that detect faces and facial landmarks from images/video streams. These return the coordinates of the facial features like left eye, right eye, nose, etc. which have been used to calculate EAR. Blinking rate is monitored per minute.
 
 
-## Demo 
-
-You can view a demo of this project here : https://youtu.be/Tt2DR8FvYDk
 
 ## Scope for improvement & future plans
 
@@ -82,10 +79,3 @@ You can view a demo of this project here : https://youtu.be/Tt2DR8FvYDk
 4. Visualizations will be added so users can see insights about their blinking habits.
 
 
-### References
-
-1. [Research Paper: Real-Time Eye Blink Detection Using Facial Landmarks](http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf)
-2. [Facial and Landmark Recognition Models](http://dlib.net/)
-3. [Creating web-application using Flask](https://towardsdatascience.com/designing-a-machine-learning-model-and-deploying-it-using-flask-on-heroku-9558ce6bde7b)
-4. [HTML+CSS](https://templatemo.com/tag/video)
-5. [Eye Health knowledge](https://visionsource.com/blog/are-you-blinking-enough/)
